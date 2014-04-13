@@ -1,0 +1,381 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"to_list"
+			],
+			[
+				"fr",
+				"from_email"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"s",
+				"subject"
+			],
+			[
+				"save",
+				"save_it"
+			],
+			[
+				"from",
+				"from_email"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"c",
+				"conf"
+			],
+			[
+				"De",
+				"DEBUG"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"Sig",
+				"SignUpForm"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"rend",
+				"render_to_response"
+			],
+			[
+				"h1",
+				"H1	Tag"
+			],
+			[
+				"Si",
+				"SignUp"
+			],
+			[
+				"_",
+				"__	__magic__"
+			],
+			[
+				"model",
+				"models"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/mvp_landing/settings.py",
+			"settings":
+			{
+				"buffer_size": 2837,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/mvp_landing/emailinfo.py",
+			"settings":
+			{
+				"buffer_size": 162,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/signups/views.py",
+			"settings":
+			{
+				"buffer_size": 1240,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/timo.fritsche/Documents/Coding/lp-framework/src/mvp_landing/emailinfo.py",
+		"/Users/timo.fritsche/Documents/Coding/lp-framework/src/signups/views.py",
+		"/Users/timo.fritsche/Documents/Coding/lp-framework/static/templates/thankyou.html",
+		"/Users/timo.fritsche/Documents/Coding/lp-framework/static/templates/base.html",
+		"/Users/timo.fritsche/Documents/Coding/lp-framework/static/static/css/custom.css",
+		"/Users/timo.fritsche/Documents/Coding/lp-framework/static/static/css/jumbotron.css",
+		"/Users/timo.fritsche/Documents/Coding/lp-framework/static/templates/signup.html",
+		"/Users/timo.fritsche/Documents/Coding/lp-framework/static/templates/navbar.html",
+		"/Users/timo.fritsche/Documents/Coding/lp-framework/static/static/css/bootstrap.css",
+		"/Users/timo.fritsche/Documents/Coding/lp-framework/src/mvp_landing/settings.py",
+		"/Users/timo.fritsche/Documents/Coding/lp-framework/src/mvp_landing/urls.py",
+		"/Users/timo.fritsche/Documents/Coding/lp-framework/src/signups/forms.py",
+		"/Users/timo.fritsche/Documents/Coding/lp-framework/src/signups/models.py",
+		"/Users/timo.fritsche/Documents/Coding/lp-framework/src/signups/admin.py",
+		"/Users/timo.fritsche/Documents/Coding/lp-framework/static/templates/aboutus.html",
+		"/Users/timo.fritsche/Documents/Coding/lp-framework/src/mvp_landing/__init__.py",
+		"/Users/timo.fritsche/Documents/Coding/lp-framework/templates/signup.html",
+		"/Users/timo.fritsche/Documents/Blogging/coding.sublime-project",
+		"/Users/timo.fritsche/Documents/Blogging/landingpages.mdown",
+		"/Users/timo.fritsche/Documents/Blogging/UX_hacks.mdown",
+		"/Users/timo.fritsche/Documents/Blogging/messaging_matters.md ",
+		"/Users/timo.fritsche/Documents/Blogging/Hubspot-Signup-Flow.md",
+		"/Users/timo.fritsche/Documents/Blogging/Company_Building/Growth Culture.md",
+		"/Users/timo.fritsche/Documents/Blogging/Product Development/revenue_is_not_an_KPI.md ",
+		"/Users/timo.fritsche/Documents/Blogging/Company_Building/Customer Centricity- Brand sucks, care about your CEX.md",
+		"/Users/timo.fritsche/Documents/Blogging/positioning.md",
+		"/Users/timo.fritsche/Documents/Coding/landing/src/mvp_landing/urls.py",
+		"/Users/timo.fritsche/Documents/Coding/landing/src/mvp_landing/settings.py",
+		"/Users/timo.fritsche/Documents/Coding/landing/lib/python2.7/site-packages/django/utils/importlib.py",
+		"/Users/timo.fritsche/Documents/Coding/landing/src/signups/views.py",
+		"/Users/timo.fritsche/Documents/Coding/landing/src/signups/forms.py",
+		"/Users/timo.fritsche/Documents/Coding/landing/static/templates/signup.html",
+		"/Users/timo.fritsche/Documents/Coding/landing/src/signups/models.py",
+		"/Users/timo.fritsche/Documents/Coding/landing/src/signups/admin.py",
+		"/Users/timo.fritsche/Documents/Blogging/Get-Advice.md",
+		"/Users/timo.fritsche/Documents/Blogging/product_tank-review.md",
+		"/Users/timo.fritsche/Desktop/Test.md",
+		"/Users/timo.fritsche/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/Users/timo.fritsche/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/timo.fritsche/Documents/Blogging/growth_hacking-and-lean_startup.md",
+		"/Users/timo.fritsche/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/timo.fritsche/Library/Application Support/Sublime Text 2/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/timo.fritsche/Desktop/untitled.mdown",
+		"/Users/timo.fritsche/Desktop/untitled.md",
+		"/Users/timo.fritsche/Meine Dateien/Tools/Coding/html5.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nav",
+			"container"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/mvp_landing/settings.py",
+					"settings":
+					{
+						"buffer_size": 2837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								502,
+								502
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/mvp_landing/emailinfo.py",
+					"settings":
+					{
+						"buffer_size": 162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/signups/views.py",
+					"settings":
+					{
+						"buffer_size": 1240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								886,
+								886
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true
+}
