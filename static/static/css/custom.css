@@ -1,5 +1,5 @@
 .jumbotron {
-	background-color: #0a677e;
+	background-color: #FFFFFF;
 }
 
 .nav-push{
@@ -8,4 +8,9 @@
 
 iframe {
 	margin-top: 20px;
+}
+
+.navbar-inverse {
+	background-color: #FFF;
+	border-color: #FFF;
 }

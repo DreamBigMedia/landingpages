@@ -52,7 +52,11 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
-#my files
-.gitignore
-.DS_Store
+# venv
+*.pyc
+staticfiles
 
+# my files
+.DS_Store
+*.sublime*
+*.pyc
