@@ -1,1 +1,1 @@
-web: gunicorn mvp-landing.wsgi
+web: python src/manage.py runserver
